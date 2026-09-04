@@ -22,11 +22,11 @@ Aplikacja nie wymaga instalowania żadnych dodatkowych pakietów przez pip. Wyst
 1. Pobierz plik dywan.py.
 2. Uruchom program za pomocą komendy: 
 
-bash
+
 
 python dywan.py
 
-Używaj kodu z rozwagą.
+
 
 *Ważne: Upewnij się, że ścieżka do folderu z projektem nie zawiera polskich znaków (takich jak ż, ś), aby uniknąć błędów systemowych konsoli PowerShell.* 
 
